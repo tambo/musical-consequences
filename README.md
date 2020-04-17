@@ -1,5 +1,5 @@
 # musical-consequences
->*Turning the class paper and pencil consequences game into musical fun*
+>*Turning the classic paper and pencil consequences game into musical fun*
 
 
 
